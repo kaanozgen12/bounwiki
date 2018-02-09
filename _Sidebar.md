@@ -6,4 +6,4 @@
 * ¯\\_(ツ)_/¯
 
 ## CMPE352 Meeting Notes
-* ¯\\_(ツ)_/¯
+* [Meeting Note 1](https://github.com/bounswe/bounswe2018group10/wiki/Meeting-Note-1)
