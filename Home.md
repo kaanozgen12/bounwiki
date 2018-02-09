@@ -5,7 +5,7 @@ This page is the general index of the group10's project and the team.
 ```To be filled in later```
 
 ## Team Members
-```To be filled in later```
+1. [Halil Çetiner](https://github.com/bounswe/bounswe2018group10/wiki/Halil-%C3%87etiner)
 
 ## CMPE352 Meeting Notes
 ```To be filled in later```
